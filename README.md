@@ -21,6 +21,7 @@ This script provides a command-line interface to manage callbacks for the Shyft.
 1. Clone this repository:
 
 git clone https://github.com/RebornBeat/Shyft-Callback-Manager.git
+
 cd shyft-callback-manager
 
 2. Install the required Python package:
